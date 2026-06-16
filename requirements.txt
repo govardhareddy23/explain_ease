@@ -1,0 +1,34 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+
+# Google Gemini
+google-generativeai
+python-dotenv
+
+# Vector store
+faiss-cpu
+
+# Embeddings & Reranking
+sentence-transformers
+
+# PDF & token utilities
+pypdf
+tiktoken
+
+# YouTube transcript
+youtube-transcript-api
+
+# BM25 retrieval
+rank_bm25
+
+# Evaluation
+ragas
+datasets
+langsmith
+
+# Streamlit UI
+streamlit
